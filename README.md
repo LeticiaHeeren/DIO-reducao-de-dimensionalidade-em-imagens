@@ -24,4 +24,5 @@ Este projeto converte uma imagem do castelo Hohenzollern colorida (RGB) para ton
 # Saída Final: 
 
 ![resultado](https://github.com/user-attachments/assets/24a1be4e-d22f-43aa-b288-1ff739d554d9)
-**Castelo de Hohenzollern** 
+
+   **Castelo de Hohenzollern** 
