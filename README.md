@@ -13,7 +13,7 @@ Este projeto converte uma imagem do castelo Hohenzollern colorida (RGB) para ton
 **Visualização:**
  - Exibe três imagens lado a lado: original, tons de cinza e binarizada.
 
-**Bibliotecas Utilizadas:**
+# Bibliotecas Utilizadas:
 
  - numpy: Para manipulação de arrays.
 
